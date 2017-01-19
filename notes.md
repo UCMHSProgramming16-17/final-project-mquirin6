@@ -1,11 +1,3 @@
-## Leading causes of death by age group in america
-
-https://webappa.cdc.gov/sasweb/ncipc/leadcaus10_us.html
-
-
-## or
-
-
-## someting using this
+## Deaths by state by gender
 
 https://wonder.cdc.gov/

@@ -1,0 +1,154 @@
+State,	        Gender,	    Deaths,	    Population, Crude Rate
+Alabama,    	Female,		404542,	    40817084,   991.1
+Alabama,    	Male,		403821,	    38336447,   1053.4
+Alabama,        Total,	    808363,	    79153531,   1021.3
+Alaska,         Female,		25317,   	5576479,	454.0
+Alaska,	        Male,		33567,   	6042575,    555.5
+Alaska,         Total,		58884,   	11619054,   506.8
+Arizona,        Female,		369933,  	51357896,   720.3
+Arizona,        Male,		411529,  	50902424,   808.5
+Arizona,        Total,		781462,  	102260320,  764.2
+Arkansas,    	Female,		242946,	    24540426,	990.0
+Arkansas,    	Male,		248263,  	23586713,	1052.6
+Arkansas,    	Total,		491209,  	48127139,	1020.6
+California,  	Female,		1998985, 	310765448,	643.2
+California,  	Male,		2045838, 	307716599,	664.8
+California,	    Total,		4044823, 	618482047,	654.0
+Colorado,    	Female,		259912,  	40807583,	636.9
+Colorado,    	Male,		263856,  	41172019,	640.
+Colorado,    	Total,		523768,  	81979602,	638.9
+Connecticut, 	Female,		263112,  	30749290,	855.7
+Connecticut, 	Male,		237671,  	29102558,	816.7
+Connecticut, 	Total,		500783,  	59851848,	836.7
+Delaware,    	Female,		63745,   	7568461,	842.2
+Delaware,    	Male,		63376,   	7122032,	889.9
+Delaware,    	Total,		127121,  	14690493,	865.3
+D.C.,	    	Female,		44034,  	5350921,	822.9
+D.C.,	    	Male,		45085,  	4789566,	941.3
+D.C.,	    	Total,   	89119,  	10140487,	878.8
+Florida,	    Female,		1419081,	157296044,	902.2
+Florida,	   	Male,		1514729,	150362162,	1007.4
+Florida,	   	Total,		2933810,	307658206,	953.6
+Georgia,	   	Female,		590560, 	80032070,	737.9
+Georgia,	   	Male,		587070,	    76762277,	764.8
+Georgia,    	Total,		1177630,	156794347,	751.1
+Hawaii,	    	Female,		73494,  	11139975,	659.7
+Hawaii,	    	Male,		87886,  	11251853,	781.1
+Hawaii,	    	Total,		161380, 	22391828,	720.7
+Idaho,	    	Female,		91356,  	12534222,	728.9
+Idaho,	    	Male,		95448,  	12591520,	758.0
+Idaho,	    	Total,		186804, 	25125742,	743.5
+Illinois,    	Female,		907225, 	109883470,	825.6
+Illinois,    	Male,		857948, 	105746017,	811.3
+Illinois,    	Total,		1765173,	215629487,	818.6
+Indiana,        Female,		492532, 	54915764,	896.9
+Indiana,        Male,		475681, 	53123572,	895.4
+Indiana,        Total,		968213, 	108039336,	896.2
+Iowa,	    	Female,		248340, 	25871605,	959.9
+Iowa,	    	Male,		229394, 	25234423,	909.1
+Iowa,	    	Total,		477734, 	51106028,	934.8
+Kansas,	    	Female,		217573, 	23945573,	908.6
+Kansas,	    	Male,		205054, 	23546932,	870.8
+Kansas,	    	Total,		422627, 	47492505,	889.9
+Kentucky,    	Female,		351968, 	36685684,	959.4
+Kentucky,    	Male,		352860, 	35384003,	997.2
+Kentucky,    	Total,		704828, 	72069687,	978.0
+Louisiana,   	Female,		350859, 	39380356,	890.9
+Louisiana,   	Male,		360792, 	37435932,	963.8
+Louisiana,   	Total,		711651, 	76816288,	926.4
+Maine,	    	Female,		111112, 	11426117,	972.4
+Maine,	    	Male,		106548, 	10920472,	975.7
+Maine,	    	Total,		217660, 	22346589,	974.0
+Maryland,    	Female,		381596, 	49633215,	768.8
+Maryland,    	Male,		370102, 	46462597,	796.6
+Maryland,       Total,		751698, 	96095812,	782.2
+Massachusetts,	Female,		491995, 	57106665,	861.5
+Massachusetts,	Male,    	438120, 	53454939,	819.6
+Massachusetts,	Total,		930115, 	110561604,	841.3
+Michigan,		Female,		762822, 	86174039,	885.2
+Michigan,		Male,		740901, 	83073062,	891.9
+Michigan,		Total,		1503723,	169247101,	888.5
+Minnesota,		Female,		337968, 	44509511,	759.3
+Minnesota,		Male,		321249, 	43840114,	732.8
+Minnesota,		Total,		659217, 	88349625,	746.1
+Mississippi,    Female,		244751,	    25604896,	955.9
+Mississippi,    Male,		249664, 	24091372,	1036.3
+Mississippi,    Total,		494415, 	49696268,	994.9
+Missouri,		Female,		482811, 	50896041,	948.6
+Missouri,		Male,		465641, 	48652884,	957.1
+Missouri,		Total,		948452, 	99548925,	952.7
+Montana,	    Female,		72554,  	8160776,	889.1
+Montana,	    Male,		76021,  	8189538,	928.3
+Montana,		Total,   	148575, 	16350314,	908.7
+Nebraska,		Female,		134877, 	15361506,	878.0
+Nebraska,		Male,		126902, 	15088069,	841.1
+Nebraska,		Total,		261779, 	30449575,	859.7
+Nevada,	    	Female,		145923, 	20950798,	696.5
+Nevada,	    	Male,		175457, 	21446491,	818.1
+Nevada,			Total,    	321380, 	42397289,	758.0
+New Hampshire,	Female,		89687,  	11169041,	803.0
+New Hampshire,	Male,		86110,  	10871017,	792.1
+New Hampshire,	Total,		175797, 	22040058,	797.6
+New Jersey,		Female,		635444, 	75865324,	837.6
+New Jersey,		Male,		582977, 	71921291,	810.6
+New Jersey,		Total,		1218421,	147786615,	824.4
+New Mexico,		Female,		123977, 	16965660,	730.8
+New Mexico,		Male,		139271, 	16544703,	841.8
+New Mexico,		Total,		263248, 	33510363,	785.6
+New York,		Female,		1349237,	169325749,	796.8
+New York,	    Male,		1237983,	158597360,	780.6
+New York,	    Total,		2587220,	327923109,	789.0
+North Carolina,	Female,		661021, 	78751767,	839.4
+North Carolina,	Male,		647527, 	75037395,	862.9
+North Carolina,	Total,		1308548,	153789162,	850.9
+North Dakota,	Female,		50278,  	5643202,	890.9
+North Dakota,	Male,		50857,  	5750832,	884.3
+North Dakota,	Total,		101135, 	11394034,	887.6
+Ohio,	    	Female,		962118, 	100050249,	961.6
+Ohio,            Male,		905619, 	95214039,	951.1
+Ohio,	        Total,		1867737,	195264288,	956.5
+Oklahoma,		Female,		308880, 	31388737,	984.0
+Oklahoma,		Male,		308385,	    30646589,	1006.3
+Oklahoma,		Total,		617265, 	62035326,	995.0
+Oregon,	    	Female,		271265, 	31814480,	852.6
+Oregon,	    	Male,		268920, 	31214477,	861.5
+Oregon,			Total,   	540185, 	63028957,	857.0
+Pennsylvania,	Female,		1132112,	109618777,	1032.8
+Pennsylvania,	Male,		1048731,	103717656,	1011.1
+Pennsylvania,	Total,		2180843,	213336433,	1022.3
+Rhode Island,	Female,		88352,  	9298919,	950.1
+Rhode Island,	Male,		78250,  	8672979,	902.2
+Rhode Island,	Total,		166602, 	17971898,	927.0
+South Carolina,	Female,		337160, 	38655223,	872.2
+South Carolina,	Male,		347340, 	36588238,	949.3
+South Carolina,	Total,		684500, 	75243461,	909.7
+South Dakota,	Female,		60041,  	6778082,	885.8
+South Dakota,	Male,		60805,  	6763768,	899.0
+South Dakota,	Total,		120846, 	13541850,	892.4
+Tennessee,   	Female,		500090, 	53464137,	935.4
+Tennessee,		Male,		498825, 	50829490,	981.4
+Tennessee,		Total,		998915, 	104293627,	957.8
+Texas,	    	Female,		1365875,	204305726,	668.5
+Texas,	    	Male,		1411386,	201373411,	700.9
+Texas,	    	Total,		2777261,	405679137,	684.6
+Utah,	    	Female,		119440, 	21932072,	544.6
+Utah,	    	Male,		123157, 	22118335,	556.8
+Utah,			Total,   	242597, 	44050407,	550.7
+Vermont,     	Female,		46021,  	5360032,	858.6
+Vermont,	    Male,		43513,  	5192894,	837.9
+Vermont,	    Total,		89534,  	10552926,	848.4
+Virginia,		Female,		509734, 	66921737,	761.7
+Virginia,		Male,		494990, 	64499184,	767.4
+Virginia,		Total,		1004724,	131420921,	764.5
+Washington,		Female,		404541, 	55194406,	732.9
+Washington,		Male,		406378, 	54837289,	741.1
+Washington,		Total,		810919, 	110031695,	737.0
+West Virginia,	Female,		182686, 	15852558,	1152.4
+West Virginia,	Male,		180878, 	15286283,	1183.3
+West Virginia,	Total,		363564, 	31138841,	1167.6
+Wisconsin,   	Female,		410621, 	47902506,	857.2
+Wisconsin,   	Male,		395196, 	47080682,	839.4
+Wisconsin,   	Total,		805817, 	94983188,	848.4
+Wyoming,	    Female,		34988,  	4494981,	778.4
+Wyoming,	    Male,		37756,  	4636522,	814.3
+Wyoming,	    Total,		72744,	    9131503,	796.6
