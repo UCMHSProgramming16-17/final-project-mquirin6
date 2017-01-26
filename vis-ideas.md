@@ -1,5 +1,5 @@
 ## Ideas
 
-bar chart
+* bar charts
+* map of usa by state
 
-map of usa by state
